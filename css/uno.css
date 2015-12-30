@@ -1107,7 +1107,7 @@ code {
   display: block;
   margin-bottom: .7em; }
   .footer__copyright a {
-    color: #006699;
+    color: #b3b3b3;
     text-decoration: none; }
     .footer__copyright a:hover {
       color: green; }
@@ -1435,7 +1435,7 @@ i {
   font-weight: lighter;
   line-height: 1.3em; }
   .post-list__post-title a {
-    color: #006699; }
+    color: #333333; }
     .post-list__post-title a:hover {
       color: green; }
 
