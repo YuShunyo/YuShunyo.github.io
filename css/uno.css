@@ -1107,10 +1107,10 @@ code {
   display: block;
   margin-bottom: .7em; }
   .footer__copyright a {
-    color: #a6a6a6;
-    text-decoration: underline; }
+    color: #006699;
+    text-decoration: none; }
     .footer__copyright a:hover {
-      color: #006699; }
+      color: green; }
 
 .avatar,
 .logo {
