@@ -78,7 +78,7 @@ h4,
 h5,
 h5 {
   margin-top: 0em;
-  margin-bottom: .8em;
+  margin-bottom: 10px;
   font-family: "ff-tisa-web-pro-1", "ff-tisa-web-pro-2", "Lucida Grande", "Hiragino Sans GB", "Hiragino Sans GB W3", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
   font-weight: lighter;
   color: #333333;
@@ -106,7 +106,7 @@ h5 {
   font-size: 1em; }
 
 p {
-  margin-bottom: 1.1em;
+  margin-bottom: 10px;
   line-height: 1.7em; }
 
 strong {
@@ -277,7 +277,7 @@ hr {
 
 .post img {
   max-width: 100%;
-  margin: 0 auto;
+  margin: 10px 0px 10px 0px;
   border-radius: 3px;
   text-align: center; }
 
