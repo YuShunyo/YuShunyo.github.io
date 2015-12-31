@@ -5,7 +5,7 @@
   margin: 0.5em 0;
   padding: 0.5em 2%;
   color: #4d4d4c;
-  line-height: 1.3;
+  line-height: 1.2;
   font-size: 0.8em;
   -webkit-border-radius: 0.35em;
   border-radius: 0.35em;
@@ -27,7 +27,7 @@
   .article-content .highlight .gutter pre,
   .article-content .gist .gist-file .gist-data .line-numbers {
     font-size: 0.9em;
-    line-height: 1.3;
+    line-height: 1.2;
   }
 }
 .article-content pre {
@@ -35,7 +35,7 @@
 }
 .article-content .highlight {
   overflow: auto;
-  font-size: 1.15em;
+  font-size: 1em;
 }
 @media phone {
   .article-content .highlight {
