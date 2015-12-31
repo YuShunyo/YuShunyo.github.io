@@ -120,11 +120,8 @@ blockquote {
   padding: 3px 15px;
   background: #eee;
   border-radius: 3px;
-  font-family: "ff-tisa-web-pro-1", "ff-tisa-web-pro-2", "Lucida Grande", "Hiragino Sans GB", "Hiragino Sans GB W3", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;      /*font-family: "Roboto Slab", serif;*/
-  margin: 0.5em 0;      font-family:  "Raleway",Verdana,sans-serif,宋体, serif, "Droid Serif", Helvetica Neue, Helvetica, Arial;
-  padding: 3px 15px;      font-weight: lighter;
-  background: #eee;     font-style: italic;
-  border-left: 3px solid #006699;     font-size: 1.0em;
+  font-family: "ff-tisa-web-pro-1", "ff-tisa-web-pro-2", "Lucida Grande", "Hiragino Sans GB", "Hiragino Sans GB W3", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
+  border-left: 3px solid #006699;
   /*text-align: center;*/ }
   blockquote p:last-child {
     margin-bottom: 0; }
