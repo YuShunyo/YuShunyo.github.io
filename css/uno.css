@@ -116,12 +116,14 @@ em {
   font-style: italic; }
 
 blockquote {
-  border-radius: 3px;
-  font-family: "ff-tisa-web-pro-1", "ff-tisa-web-pro-2", "Lucida Grande", "Hiragino Sans GB", "Hiragino Sans GB W3", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
   margin: 0.5em 0;
   padding: 3px 15px;
   background: #eee;
   border-left: 3px solid #006699;
+  
+  border-radius: 3px;
+  font-family: "ff-tisa-web-pro-1", "ff-tisa-web-pro-2", "Lucida Grande", "Hiragino Sans GB", "Hiragino Sans GB W3", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
+
 
 
 
