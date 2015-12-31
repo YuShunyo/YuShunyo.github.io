@@ -452,11 +452,21 @@ hr {
 
 .btn-small {
   padding: 5px 12px;
-  font-size: .7em; }
+  font-size: .7em;
+  border: 1px solid #BF1827;
+  border-radius: 20px;
+  padding: 6px 8px;
+  font-size: .8em;
+  margin-left: 10px; }
 
 .readmore-btn-small {
   padding: 3px 5px;
-  font-size: .7em; }
+  font-size: .7em;
+  border: 1px solid #BF1827;
+  border-radius: 20px;
+  padding: 6px 8px;
+  font-size: .8em;
+  margin-left: 10px; }
 
 .btn-mobile-menu {
   display: none;
