@@ -119,8 +119,7 @@ blockquote {
   margin: 0.5em 0;
   padding: 3px 15px;
   background: #eee;
-  border: 1px solid #eeeeee;
-  border-radius: 3px;     border-radius: 3px;
+  border-radius: 3px;
   font-family: "ff-tisa-web-pro-1", "ff-tisa-web-pro-2", "Lucida Grande", "Hiragino Sans GB", "Hiragino Sans GB W3", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;      /*font-family: "Roboto Slab", serif;*/
   margin: 0.5em 0;      font-family:  "Raleway",Verdana,sans-serif,宋体, serif, "Droid Serif", Helvetica Neue, Helvetica, Arial;
   padding: 3px 15px;      font-weight: lighter;
